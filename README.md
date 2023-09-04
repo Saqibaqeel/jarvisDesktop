@@ -39,6 +39,6 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 This project is created and maintained by Saqibaqeel.
 
 - GitHub: [Saqibaqeel's GitHub Profile](https://github.com/Saqibaqeel)
-- Email: your.email@example.com
+- Email: Saquibaqeel@gmail.com
 
 
